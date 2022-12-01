@@ -115,13 +115,8 @@ main::-webkit-scrollbar{
   .navigationMenu{
     display: none;
   }
-}
-/* navbar styles end */
-
-
-
-/* Hero section styles */
-.heroSection{
+  
+}.heroSection{
   margin: 2rem 0;
   width: 100%;
   display: flex;
@@ -147,11 +142,6 @@ main::-webkit-scrollbar{
   margin: 10px;
 }
 
-/* Hero section styles end */
-
-
-
-/* about me styles */
 .aboutMe{
   margin: 1rem;
   text-align: center;
